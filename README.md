@@ -16,8 +16,8 @@ The notes I learned in the C++ course
 ### continue , break
 ---
 ### Functions
-  #### void Anahtar Kelimesi
-  #### Function Overloading
+#### void Anahtar Kelimesi
+#### Function Overloading
 ---
 ### Arrays
 #### Tek Boyutlu Arrays
@@ -25,9 +25,11 @@ The notes I learned in the C++ course
 #### Dinamik Çok Boyutlu Diziler
 #### Dizilerin Fonksiyonlarda Parametre olarak kullanılması
 #### Dizinin boyutunu bulma (sizeof)
+---
 ### Algoritma Geliştirme
 #### Algoritmalarda Performans İyileştirme
 #### Farklı Algoritmaların Performanslarını Karşılaştırma
+---
 ### Const ve Static
 ### Try - Catch ile Hata Yakalama
 ### Call by Value/Reference
