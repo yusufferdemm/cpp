@@ -2,7 +2,6 @@ The notes I learned in the C++ course
 
 # SECTION - 1
 ---
-# Table of Contents
 
 - [STD](#std)
 - [main Fonksiyonu](#main-fonksiyonu)
