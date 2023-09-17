@@ -14,9 +14,11 @@ The notes I learned in the C++ course
 ### Switch - case
 ### Loops
 ### continue , break
+---
 ### Functions
-#### void Anahtar Kelimesi
-#### Function Overloading
+  #### void Anahtar Kelimesi
+  #### Function Overloading
+---
 ### Arrays
 #### Tek Boyutlu Arrays
 #### N-boyutlu Arrays
